@@ -1,1 +1,4 @@
+Flask>=3.0.3
+Werkzeug>=3.0.6
+wheel>=0.46.0
 gunicorn
